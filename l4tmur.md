@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Vishal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ethical+Hacker&Penetration+Tester;++;Self-taught+Cybersecurity+Researcher,;Automobile+Student,;CTF+Player,;Active+Learner/Researcher,;Upcoming+Pro+Red+teamer<3"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ethical+Hacker+%26+Penetration+Tester+%26+CTF+Player;Self+taught+Cybersecurity+Researcher;Part+time+Bug+bounty+Hunter)](https://git.io/typing-svg)
 </p>
 
 
