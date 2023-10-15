@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://media.licdn.com/dms/image/D5603AQHwS9syeNl8Gw/profile-displayphoto-shrink_800_800/0/1671187267113?e=2147483647&v=beta&t=WznNwY0FngB2qUeJjz0V2DF2zyBqE2MzUROUroMK-Bc)" width = 250px></picture>
 
 <br>
 
