@@ -26,3 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+  <!-- Contact Information -->
+  - [LinkedIn](https://in.linkedin.com/in/mr-g0d-hacktivist))
+  - Discord: mr_g0d#3193
+  - Email: [l4tmur@gmail.com](mailto:l4tmur@gmail.com)
