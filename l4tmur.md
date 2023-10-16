@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Vishal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hacker+%26+Penetration+Tester+;%232+HacktheBox+Player+in+India" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hacker+%26+Penetration+Tester+%26+Bug+Bounty+Hunter;%232+HacktheBox+Player+in+India" alt="Typing SVG" /></a>
 </p>
 
 
@@ -16,9 +16,15 @@
 
 <br>
 
-- HacktheBox #2 Player in India & #60 in Global
-- Acknowledged by META & Indian Govt
+- 👨‍💻 Cybersecurity enthusiast and final-year automobile student.
 
+- 🌐 Expanding my knowledge in cybersecurity, with a passion for solving challenges and continuous learning.
+
+- 🔐 Active CTF player and co-founder of the Nova CTF team.
+
+- 💼 1 year of pentesting experience, helping organizations secure their digital assets.
+
+- 🌟 Committed to making the digital world safer and contributing to the cybersecurity community.
 
 <br><br>
 
@@ -31,17 +37,13 @@
 
 - **Languages**:
     
-    ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/-PYTHON-05122A?style=social&logo=PYTHON&color=353535) ![Bootstrap](https://img.shields.io/badge/-BASH-05122A?style=social&logo=BASH&color=353535) ![Bootstrap](https://img.shields.io/badge/-POWERSHELL-05122A?style=social&logo=POWERSHELL&color=353535)
 
 <br>
 
 - **Experience**:
 
-    ![Git](https://img.shields.io/badge/Active%20Directory-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/Web%20Pentesting-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/Network%20Pentesting-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Burpsuite-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Bootstrap](https://img.shields.io/badge/-Active%20Directory%20Pentesting-05122A?style=social&logo=Active-Directory-Pentesting&color=353535) ![Bootstrap](https://img.shields.io/badge/-Web%20Pentesting-05122A?style=social&logo=Web-Pentesting&color=353535) ![Bootstrap](https://img.shields.io/badge/-Network%20Pentesting-05122A?style=social&logo=Network-Pentesting&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=social&logo=Linux&color=353535)
 
 <br>
 
