@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Vishal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=010506&random=false&width=435&lines=Ethical+Hacker+%26+Penetration+Tester;Acknowledged+By+META+%26+IND+GOVT;Top+%232+HacktheBox+Player+in+IND" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=010506&random=false&width=435&lines=Ethical+Hacker+%26+Penetration+Tester;Acknowledged+By+META+%26+IND+GOVT;Top+%232+HacktheBox+Player+in+INDIA" alt="Typing SVG" /></a>
 </p>
 
 
